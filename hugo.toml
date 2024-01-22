@@ -1,0 +1,4 @@
+baseURL = 'https://ljh1205github.io'
+languageCode = 'zh-CN'
+title = 'My New Hugo Site'
+theme = 'hyde'
